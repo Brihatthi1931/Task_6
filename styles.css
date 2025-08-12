@@ -1,0 +1,15 @@
+body { font-family: system-ui, Arial; max-width: 970px; margin: 40px auto; padding: 0 16px; line-height: 2.5;
+  background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #fbc2eb, #a6c1ee);
+    /*background-color: bisque;
+  background-image: url(https://media.licdn.com/dms/image/v2/D4D0BAQGM4YMlWzSIBg/img-crop_100/B4DZdbXNtgGgAM-/0/1749584503902?e=2147483647&v=beta&t=sln4yprE6gEtq2TZxv7m43KrKcgZILekSfHQ7oqLvys);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;*/
+ }
+ @keyframes gradientBG {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+header { text-align:center; margin-bottom: 24px; }
+h1 { font-size: 3rem; margin: 0.3rem 0; }
